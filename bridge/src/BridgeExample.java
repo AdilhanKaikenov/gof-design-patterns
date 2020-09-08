@@ -37,7 +37,7 @@ class Car extends Vehicle {
 
     @Override
     void drive() {
-        model.drive("Drive car");
+        this.model.drive("Drive car");
     }
 }
 
@@ -49,7 +49,7 @@ class Track extends Vehicle {
 
     @Override
     void drive() {
-        model.drive("Drive track");
+        this.model.drive("Drive track");
     }
 }
 
