@@ -1,7 +1,7 @@
 
 An example of a problem:  
 
-![bridge](./etc/bridge.jpg)
+![bridge](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/bridge/etc/bridge.jpg)
 
 If in the future it will be necessary to add the Tractor interface, 
 then for each model (Audi, Mercedes, Toyota) it will be necessary to create a separate implementation class, 
@@ -26,4 +26,4 @@ class ToyotaBike implements Bike {}
 
 ```
 
-![bridge-uml](./etc/bridge-uml.jpg)
+![bridge-uml](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/bridge/etc/Bridge-UML.jpg)
