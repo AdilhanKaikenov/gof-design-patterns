@@ -1,7 +1,7 @@
 
 An example of a problem:  
 
-![](./etc/bridge.jpg)
+![bridge](./etc/bridge.jpg)
 
 If in the future it will be necessary to add the Tractor interface, 
 then for each model (Audi, Mercedes, Toyota) it will be necessary to create a separate implementation class, 
@@ -26,4 +26,4 @@ class ToyotaBike implements Bike {}
 
 ```
 
-![](./etc/bridge-uml.jpg)
+![bridge-uml](./etc/bridge-uml.jpg)
