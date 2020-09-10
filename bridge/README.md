@@ -1,3 +1,4 @@
+Separate the abstraction from its implementation so that we can change both independently.
 
 An example of a problem:  
 

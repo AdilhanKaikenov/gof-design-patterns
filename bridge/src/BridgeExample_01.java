@@ -7,7 +7,7 @@
  * "decouple an abstraction from its implementation so that the two can vary independently"
  * отделять абстракцию от ее реализации, чтобы они могли независимо изменяться 
  */
-public class BridgeExample {
+public class BridgeExample_01 {
     public static void main(String[] args) {
 
         Vehicle vehicle1 = new Car(new Toyota());
