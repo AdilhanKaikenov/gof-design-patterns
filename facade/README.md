@@ -1,4 +1,4 @@
-![facade-01](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/facade/etc/Facade.jpg)
+![facade-01](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/facade/etc/Facade.png)
 
 When we move some complex logic from several places to a separate class and call everything with one method call.
 
