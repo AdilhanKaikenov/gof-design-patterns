@@ -5,6 +5,7 @@
  *
  * The bridge pattern is a design pattern used in software engineering that is meant to
  * "decouple an abstraction from its implementation so that the two can vary independently"
+ * отделять абстракцию от ее реализации, чтобы они могли независимо изменяться 
  */
 public class BridgeExample {
     public static void main(String[] args) {
