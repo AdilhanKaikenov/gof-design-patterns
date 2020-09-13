@@ -26,7 +26,7 @@ public class IteratorExample_01 {
         // FAIL FAST and FAIL SAFE
         // (FAIL FAST) If we have some kind of incorrect operation while we are running through the collection, then we will immediately fail
         // (FAIL SAFE) If we have some kind of incorrect operation while we are running through the collection, then nothing will happen, everything will work
-        // The difference between them is that the FAIL SAFE works longer, the FAIL FAST works faster
+        // The difference between them is that the FAIL SAFE works slower, the FAIL FAST works faster
 
         final List<Object> failFastList = new ArrayList<>();
         failFastList.add("One");
