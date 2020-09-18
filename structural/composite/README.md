@@ -1,7 +1,7 @@
 
-![composite-01](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/composite/etc/Composite-UML-and-object-diagram.jpg)   
+![composite-01](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/structural/composite/etc/Composite-UML-and-object-diagram.jpg)   
 
-![composite-02](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/composite/etc/UML-class-diagram.jpg)
+![composite-02](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/structural/composite/etc/UML-class-diagram.jpg)
 
 Component  
 * is the abstraction for all components, including composite ones

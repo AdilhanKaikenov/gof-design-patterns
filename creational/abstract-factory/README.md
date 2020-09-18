@@ -3,7 +3,7 @@ specifying their concrete classes.
 
 The Abstract Factory pattern suggests identifying common interfaces for individual products that make up a family.
 
-![abstract-factory-01](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/abstract-factory/etc/abstract-factory-01.png)
+![abstract-factory-01](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/creational/abstract-factory/etc/abstract-factory-01.png)
 
 For each variant of a product family, we create a separate factory class based on the AbstractFactory interface. 
 A factory is a class that returns products of a particular kind. For example, the ModernFurnitureFactory can 

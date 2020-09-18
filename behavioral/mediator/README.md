@@ -1,4 +1,4 @@
-![mediator-01](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/mediator/etc/mediator-diagram.png)
+![mediator-01](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/behavioral/mediator/etc/mediator-diagram.png)
 
 Посредник — это поведенческий паттерн проектирования, который позволяет уменьшить связанность множества классов между собой, 
 благодаря перемещению этих связей в один класс-посредник.

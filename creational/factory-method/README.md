@@ -7,12 +7,12 @@ The idea is that there is some kind of abstract class or interface that returns 
 The Factory Method pattern suggests that you replace direct object construction calls 
 (using the new operator) with calls to a special factory method. 
 
-![factory-method-01](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/factory-method/etc/factory-method-01.png)
+![factory-method-01](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/creational/factory-method/etc/factory-method-01.png)
 
 For this system to work, all returned objects must have a common interface. 
 Subclasses will be able to produce objects of different classes following the same interface.
 
-![factory-method-02](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/factory-method/etc/factory-method-02.png)
+![factory-method-02](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/creational/factory-method/etc/factory-method-02.png)
 
 Use the Factory Method pattern when:
 

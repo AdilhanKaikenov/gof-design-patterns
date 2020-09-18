@@ -1,4 +1,4 @@
-![iterator](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/iterator/etc/iterator.png)
+![iterator](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/behavioral/iterator/etc/iterator.png)
 
 Итератор — это поведенческий паттерн проектирования, который даёт возможность последовательно обходить элементы составных объектов,
 не раскрывая их внутреннего представления.

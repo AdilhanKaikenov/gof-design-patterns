@@ -2,7 +2,7 @@ Separate the abstraction from its implementation so that we can change both inde
 
 An example of a problem:  
 
-![bridge](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/bridge/etc/Bridge.jpg)
+![bridge](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/structural/bridge/etc/Bridge.jpg)
 
 If in the future it will be necessary to add the Tractor interface, 
 then for each model (Audi, Mercedes, Toyota) it will be necessary to create a separate implementation class, 
@@ -27,4 +27,4 @@ class ToyotaBike implements Bike {}
 
 ```
 
-![bridge-uml](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/bridge/etc/Bridge-UML.jpg)
+![bridge-uml](https://raw.githubusercontent.com/AdilhanKaikenov/gof-design-patterns/master/structural/bridge/etc/Bridge-UML.jpg)
